@@ -1,2 +1,2 @@
 # mygit
-# shinson2
+# shinson_master
